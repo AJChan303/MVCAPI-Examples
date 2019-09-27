@@ -1,0 +1,11 @@
+C:\repos\FunWithMike\FunWithMike\bin\Debug\netcoreapp2.2\FunWithMike.deps.json
+C:\repos\FunWithMike\FunWithMike\bin\Debug\netcoreapp2.2\FunWithMike.runtimeconfig.json
+C:\repos\FunWithMike\FunWithMike\bin\Debug\netcoreapp2.2\FunWithMike.runtimeconfig.dev.json
+C:\repos\FunWithMike\FunWithMike\bin\Debug\netcoreapp2.2\FunWithMike.dll
+C:\repos\FunWithMike\FunWithMike\bin\Debug\netcoreapp2.2\FunWithMike.pdb
+C:\repos\FunWithMike\FunWithMike\obj\Debug\netcoreapp2.2\FunWithMike.csprojAssemblyReference.cache
+C:\repos\FunWithMike\FunWithMike\obj\Debug\netcoreapp2.2\FunWithMike.csproj.CoreCompileInputs.cache
+C:\repos\FunWithMike\FunWithMike\obj\Debug\netcoreapp2.2\FunWithMike.AssemblyInfoInputs.cache
+C:\repos\FunWithMike\FunWithMike\obj\Debug\netcoreapp2.2\FunWithMike.AssemblyInfo.cs
+C:\repos\FunWithMike\FunWithMike\obj\Debug\netcoreapp2.2\FunWithMike.dll
+C:\repos\FunWithMike\FunWithMike\obj\Debug\netcoreapp2.2\FunWithMike.pdb

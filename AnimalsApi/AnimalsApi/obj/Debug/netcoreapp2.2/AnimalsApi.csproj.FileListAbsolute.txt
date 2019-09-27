@@ -1,0 +1,14 @@
+C:\repos\AnimalsApi\AnimalsApi\bin\Debug\netcoreapp2.2\AnimalsApi.deps.json
+C:\repos\AnimalsApi\AnimalsApi\bin\Debug\netcoreapp2.2\AnimalsApi.runtimeconfig.json
+C:\repos\AnimalsApi\AnimalsApi\bin\Debug\netcoreapp2.2\AnimalsApi.runtimeconfig.dev.json
+C:\repos\AnimalsApi\AnimalsApi\bin\Debug\netcoreapp2.2\AnimalsApi.dll
+C:\repos\AnimalsApi\AnimalsApi\bin\Debug\netcoreapp2.2\AnimalsApi.pdb
+C:\repos\AnimalsApi\AnimalsApi\obj\Debug\netcoreapp2.2\AnimalsApi.csprojAssemblyReference.cache
+C:\repos\AnimalsApi\AnimalsApi\obj\Debug\netcoreapp2.2\AnimalsApi.csproj.CoreCompileInputs.cache
+C:\repos\AnimalsApi\AnimalsApi\obj\Debug\netcoreapp2.2\AnimalsApi.RazorAssemblyInfo.cache
+C:\repos\AnimalsApi\AnimalsApi\obj\Debug\netcoreapp2.2\AnimalsApi.RazorAssemblyInfo.cs
+C:\repos\AnimalsApi\AnimalsApi\obj\Debug\netcoreapp2.2\AnimalsApi.AssemblyInfoInputs.cache
+C:\repos\AnimalsApi\AnimalsApi\obj\Debug\netcoreapp2.2\AnimalsApi.AssemblyInfo.cs
+C:\repos\AnimalsApi\AnimalsApi\obj\Debug\netcoreapp2.2\AnimalsApi.RazorTargetAssemblyInfo.cache
+C:\repos\AnimalsApi\AnimalsApi\obj\Debug\netcoreapp2.2\AnimalsApi.dll
+C:\repos\AnimalsApi\AnimalsApi\obj\Debug\netcoreapp2.2\AnimalsApi.pdb
